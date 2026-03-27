@@ -1,7 +1,9 @@
 // ============================================================
 // CONSTANTES
 // ============================================================
-// you bet!
+
+//participação: José Eduardo
+//You Bet!
 // Endereço base da API pública de testes
 const URL_API = 'https://api.restful-api.dev/objects';
 
